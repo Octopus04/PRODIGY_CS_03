@@ -1,2 +1,1 @@
-# PRODIGY_CS_03
-Pixel_Manipulation_For_Image_Encryption
+# Pixel_Manipulation_For_Image_Encryption
